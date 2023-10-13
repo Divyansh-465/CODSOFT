@@ -40,7 +40,7 @@ int main(){
                 divide(a, b);
                 break;
             default:
-                printf("Invalid choice. Try again!");
+                cout << "Invalid choice. Try again!";
         }
     }
     return 0;
